@@ -33,6 +33,7 @@ on:
           - JCG-Y2
           - JDCLOUD-RE-CP-02
           - JDCLOUD-RE-SP-01B
+          - RT-AC1200GU
           - K2P
           - K2P-NANO
           - K2P-USB
